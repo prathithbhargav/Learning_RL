@@ -1,4 +1,0 @@
-This Repo contains the code for RL Algorithms from the book - PyTorch 1.x Reinforcement
-Learning Cookbook by Yuxi (Hayden) Liu
-
-While the algorithms in the book are from Pytorch 1.(x) and Open AI gym, I have used Farama Gymnasium and Pytorch 2.(x)
